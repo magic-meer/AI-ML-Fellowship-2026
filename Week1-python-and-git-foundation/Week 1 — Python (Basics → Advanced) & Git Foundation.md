@@ -4,7 +4,7 @@
 
 ### **🎯 Goal**
 
-Build a **strong Python foundation**, understand **Git/GitHub workflow**, and create your **first Streamlit app**. From zero → runnable, well-documented code on GitHub
+Build a **strong Python foundation**, understand **Git/GitHub workflow**, and create your **first Streamlit app**. This sprint is designed to move learners from **functional Python → object-oriented & production-ready Python**. From zero → runnable, well-documented code on GitHub. 
 
 **Deliverables:** GitHub repo with Week1 (Task1→Task5) code, requirements.txt, README.md, and a week1’s Medium draft link.
 
@@ -256,14 +256,99 @@ Decorators guide: [https://realpython.com/primer-on-python-decorators](https://r
 
 📁 Folder: Task4/mypackage/ 
 
-## **Task 5 — Mini Project**
+## **Task 5 — Mini End-to-End Python Project / Streamlit Mini App**
 
-Requirements:TBA  
-Duration: 1-2 or 2-3 days (Get Ready\!)
+Duration: 1-2 or 2-3 days 
 
-—---
+**🎯 Goal**
 
-# **🧠 Reality Check (Important)**
+Build, document, and deploy a **real-world Python project** while practicing:
+
+* Clean & modular code  
+* OOP & advanced Python concepts & File/Error handling  
+* Git/GitHub collaboration  
+* Streamlit app deployment  
+* Well-documented
+
+**Topics**
+
+* Introduction to Streamlit  
+* Building UI with Streamlit  
+* Connecting Python logic  
+* GitHub deployment
+
+**Mini Project (Choose One)**
+
+* Streamlit Calculator  
+* Student Management App  
+* File Analyzer App 
+
+## **1 — Project Planning**
+
+* Problem selection  
+* Folder structure
+
+## **2 — Implementation**
+
+* Core logic  
+* Reuse previous concepts
+
+## **3 — Advanced Features**
+
+* OOP  
+* Error handling  
+* Modular code
+
+## **4 — GitHub Deployment**
+
+* Final commits  
+* Clean & Detailed README.md  
+* Complete project code  
+* Clean folder structure  
+* Screenshots (optional)  
+* Deployed app link (optional)
+
+## **5 — Final Submission**
+
+* Project demo  
+* Reflection
+
+### **Final Submission Structure**
+
+**GitHub Repo** 
+
+ e.g       📁 mini\_project/
+
+├── src/app.py   
+├── README.md  
+├── requirements.txt
+
+**Google Classroom Submission**
+
+* GitHub repo link  
+* Short description (3–4 lines)
+
+**Note**: Ensure to maintain the main fellowship repo—\> 📁 Folder: Task5/mini\_project/
+
+—-----------------------------------------------------------------------------------------------------------------------------------
+
+## **Week 1 Deliverables**
+
+* ✅ Python tasks  
+* ✅ GitHub repository (well-structured)  
+* ✅ Streamlit app  
+* ✅ Medium blog: e.g:  *“Python & Git – Week 1 Learning”*
+
+## **🎯 Outcome After Week 1**
+
+By the end of this week, fellows will:  
+✔ Write clean Python code  
+✔ Understand Git collaboration  
+✔ Apply advanced Python concepts  
+✔ Build & deploy a Streamlit app  
+✔ Maintain a professional GitHub repo
+
+# **Reality Check (Important)**
 
 This **does NOT make someone an expert in 1 week**, but it is designed to:  
 ✔ Build strong Python foundations  
@@ -296,9 +381,8 @@ Writing on Medium: [https://help.medium.com/hc/en-us/articles/214991667-Write-a-
 * Git usage & commit history  
 * Folder structure  
 * Documentation quality  
-* Timely submission
-
-## 
+* Timely submission  
+* Consistency
 
 ## **Grading / Quick Rubric** 
 
