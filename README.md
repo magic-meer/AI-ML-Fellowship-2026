@@ -34,16 +34,23 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Introduction to Streamlit for UI
 - Project planning, implementation, and deployment
 
+### Week 2 - Data Handling & Visualization
+**Task 6**: Titanic EDA
+- Exploratory Data Analysis on the Titanic dataset.
+
 
 ## Repository Structure
 ```
 .
-├── Week1/
+├── Week1-python-and-git-foundation/
 │   ├── Task1/          # Python basics
 │   ├── Task2/          # Modular Python & data handling
 │   ├── Task3/          # OOP & advanced Python
 │   ├── Task4/          # Modular Programming, Packaging, and Production Readiness
 │   ├── Task5/          # Streamlit mini-project
+│   └── README.md
+├── Week2-data-handling-and-visualization/
+│   ├── Task6/          # Titanic EDA
 │   └── README.md
 └── README.md           # This file
 ```
@@ -66,5 +73,6 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 3: OOP & Advanced Python
 - [x] Week 1 - Task 4: Modular Programming, Packaging, and Production Readiness
 - [x] Week 1 - Task 5: Streamlit Mini-Project
+- [x] Week 2 - Task 6: Titanic EDA
 
 ---
