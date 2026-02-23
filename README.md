@@ -38,6 +38,16 @@ Repository for AI/ML Fellowship program tasks and projects.
 **Task 6**: Titanic EDA
 - Exploratory Data Analysis on the Titanic dataset.
 
+### Week 5 - Linear Regression
+**Task 7**: Linear Regression
+- Introduction to Machine Learning
+- Implement Linear Regression from Scratch:
+  - Normal Equation (closed-form solution)
+  - Gradient Descent implementation
+- Implement Linear Regression using Scikit-Learn
+- Model evaluation (MSE, RMSE, MAE, R² Score)
+- Multiple Linear Regression
+
 
 ## Repository Structure
 ```
@@ -51,6 +61,11 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   └── README.md
 ├── Week2-data-handling-and-visualization/
 │   ├── Task6/          # Titanic EDA
+│   └── README.md
+├── Week3-Week4-project-plant-watering-system/
+│   └── Plant-Watering-System/   # IoT Project
+├── Week5-Linear-Regression/
+│   ├── Linear_Regression_Task7.ipynb
 │   └── README.md
 └── README.md           # This file
 ```
@@ -74,5 +89,6 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 4: Modular Programming, Packaging, and Production Readiness
 - [x] Week 1 - Task 5: Streamlit Mini-Project
 - [x] Week 2 - Task 6: Titanic EDA
+- [x] Week 5 - Task 7: Linear Regression
 
 ---
