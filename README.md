@@ -38,7 +38,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 **Task 6**: Titanic EDA
 - Exploratory Data Analysis on the Titanic dataset.
 
-### Week 5 - Linear Regression
+### Week 5 - Linear Regression & Logistic Regression
 **Task 7**: Linear Regression
 - Introduction to Machine Learning
 - Implement Linear Regression from Scratch:
@@ -47,6 +47,14 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Implement Linear Regression using Scikit-Learn
 - Model evaluation (MSE, RMSE, MAE, R² Score)
 - Multiple Linear Regression
+
+**Task 8**: Logistic Regression
+- Introduction to Classification problems
+- Math behind Logistic Regression (Sigmoid, Log-loss)
+- Implement Logistic Regression from Scratch
+- Implement Logistic Regression using Scikit-Learn
+- Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
+- Decision boundary visualization
 
 
 ## Repository Structure
@@ -66,6 +74,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   └── Plant-Watering-System/   # IoT Project
 ├── Week5-Linear-Regression/
 │   ├── Linear_Regression_Task7.ipynb
+│   ├── Logistic_Regression_Task8.ipynb
 │   └── README.md
 └── README.md           # This file
 ```
@@ -90,5 +99,6 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 5: Streamlit Mini-Project
 - [x] Week 2 - Task 6: Titanic EDA
 - [x] Week 5 - Task 7: Linear Regression
+- [x] Week 5 - Task 8: Logistic Regression
 
 ---
