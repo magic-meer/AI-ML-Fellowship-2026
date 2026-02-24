@@ -1,8 +1,8 @@
-# Week 5 — Linear Regression
+# Week 5 — Linear Regression & Logistic Regression
 
-Introduction to Machine Learning and Linear Regression implementation for the AI/ML Fellowship at GDGOC COMSATS Attock.
+Introduction to Machine Learning, Linear Regression and Logistic Regression implementation for the AI/ML Fellowship at GDGOC COMSATS Attock.
 
-## Task
+## Tasks
 
 ### Task 7 - Linear Regression
 - Introduction to Machine Learning concepts
@@ -13,36 +13,51 @@ Introduction to Machine Learning and Linear Regression implementation for the AI
 - Model evaluation (MSE, RMSE, MAE, R² Score)
 - Multiple Linear Regression
 
+### Task 8 - Logistic Regression
+- Introduction to Classification problems
+- Math behind Logistic Regression:
+  - Sigmoid function
+  - Log-loss cost function
+  - Gradient descent
+- Implement Logistic Regression from Scratch
+- Implement Logistic Regression using Scikit-Learn
+- Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
+- Decision boundary visualization
+
 ## Concepts Covered
 - Machine Learning fundamentals
-- Supervised Learning (Regression)
+- Supervised Learning (Regression & Classification)
 - Linear Regression mathematics
 - Normal Equation
 - Gradient Descent optimization
 - Model evaluation metrics
 - Feature scaling impact
 - Multiple regression
+- Logistic Regression mathematics
+- Sigmoid function
+- Cross-Entropy (Log Loss)
+- Decision boundaries
+- ROC curves and AUC
 
 ## Structure
 ```
 Week5-Linear-Regression/
-└── Linear_Regression_Task7.ipynb   # Main notebook with all implementations
+├── Linear_Regression_Task7.ipynb   # Linear Regression implementation
+└── Logistic_Regression_Task8.ipynb  # Logistic Regression implementation
 ```
 
 ## Key Implementations
 
-### 1. Linear Regression from Scratch (Normal Equation)
-- Closed-form solution using matrix operations
-- Direct computation: θ = (XᵀX)⁻¹Xᵀy
-
-### 2. Linear Regression from Scratch (Gradient Descent)
-- Iterative optimization algorithm
-- Learning rate and iteration tuning
-- Cost function minimization
-
-### 3. Scikit-Learn Implementation
-- Production-ready LinearRegression
-- Comparison with custom implementations
+### Task 7 - Linear Regression
+1. **Normal Equation** - Closed-form solution using matrix operations
+2. **Gradient Descent** - Iterative optimization algorithm
+3. **Scikit-Learn** - Production-ready implementation
 
 ## Author
 Meher Ali - AI/ML Fellowship, GDGOC COMSATS Attock
+
+### Task 8 - Logistic Regression
+1. **Sigmoid Function** - Maps predictions to probabilities (0-1)
+2. **Log Loss Cost Function** - Cross-entropy loss for classification
+3. **Gradient Descent** - Optimizes weights to minimize cost
+4. **Scikit-Learn** - Production-ready LogisticRegression
