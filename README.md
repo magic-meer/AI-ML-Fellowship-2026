@@ -56,6 +56,18 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
 - Decision boundary visualization
 
+**Task 9**: Model Evaluation Metrics (Reading Activity)
+- Understanding Regression & Its Evaluation Techniques
+- Understanding Classification & Its Evaluation Techniques
+- Model Variance & Bias
+- Underfitting vs Overfitting
+
+**Task 10**: Data Preprocessing & Feature Engineering
+- Handling Missing Values (Mean/Median/Mode imputation)
+- Feature Scaling (StandardScaler, MinMaxScaler)
+- Encoding Categorical Variables (Label Encoding, One-Hot Encoding)
+- Using Pipeline & ColumnTransformer
+
 
 ## Repository Structure
 ```
@@ -75,6 +87,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 ├── Week5-Linear-Regression/
 │   ├── Linear_Regression_Task7.ipynb
 │   ├── Logistic_Regression_Task8.ipynb
+│   ├── Data_Preprocessing_Task10.ipynb
 │   └── README.md
 └── README.md           # This file
 ```
@@ -100,5 +113,7 @@ GDGOC COMSATS Attock
 - [x] Week 2 - Task 6: Titanic EDA
 - [x] Week 5 - Task 7: Linear Regression
 - [x] Week 5 - Task 8: Logistic Regression
+- [x] Week 5 - Task 9: Model Evaluation Metrics
+- [x] Week 5 - Task 10: Data Preprocessing & Feature Engineering
 
 ---

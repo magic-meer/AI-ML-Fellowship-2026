@@ -24,6 +24,12 @@ Introduction to Machine Learning, Linear Regression and Logistic Regression impl
 - Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
 - Decision boundary visualization
 
+### Task 10 - Data Preprocessing & Feature Engineering
+- Handling Missing Values (Mean/Median/Mode imputation)
+- Feature Scaling (StandardScaler, MinMaxScaler)
+- Encoding Categorical Variables (Label Encoding, One-Hot Encoding)
+- Using Pipeline & ColumnTransformer for automated preprocessing
+
 ## Concepts Covered
 - Machine Learning fundamentals
 - Supervised Learning (Regression & Classification)
@@ -38,12 +44,18 @@ Introduction to Machine Learning, Linear Regression and Logistic Regression impl
 - Cross-Entropy (Log Loss)
 - Decision boundaries
 - ROC curves and AUC
+- Data preprocessing
+- Feature engineering
+- Missing value handling
+- Categorical encoding
+- Pipeline and ColumnTransformer
 
 ## Structure
 ```
 Week5-Linear-Regression/
-├── Linear_Regression_Task7.ipynb   # Linear Regression implementation
-└── Logistic_Regression_Task8.ipynb  # Logistic Regression implementation
+├── Linear_Regression_Task7.ipynb     # Linear Regression implementation
+├── Logistic_Regression_Task8.ipynb    # Logistic Regression implementation
+└── Data_Preprocessing_Task10.ipynb    # Data Preprocessing & Feature Engineering
 ```
 
 ## Key Implementations
