@@ -68,6 +68,25 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Encoding Categorical Variables (Label Encoding, One-Hot Encoding)
 - Using Pipeline & ColumnTransformer
 
+### Week 6 - Advanced ML Techniques
+**Task 11**: Advanced ML & Model Comparison
+- Linear Regression with Scikit-Learn (Ridge, Lasso)
+- Tree-Based Models (Decision Tree, Random Forest)
+- Kernel & Margin-Based Models (SVM)
+- Ensemble Learning (Gradient Boosting, Stacking)
+- Hyperparameter Tuning
+- Housing Price Prediction Model
+- ML Model Comparison Report
+
+### Week 7 - Unsupervised Learning & Dimensionality Reduction
+**Task 12**: Unsupervised Learning & Market Basket Analysis
+- K-Means Clustering (from Scratch)
+- Hierarchical Clustering with Dendrogram
+- PCA for Dimensionality Reduction
+- t-SNE Visualization
+- Association Rule Mining (Apriori Algorithm)
+- Market Basket Analysis Project
+
 
 ## Repository Structure
 ```
@@ -88,6 +107,12 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   ├── Linear_Regression_Task7.ipynb
 │   ├── Logistic_Regression_Task8.ipynb
 │   ├── Data_Preprocessing_Task10.ipynb
+│   └── README.md
+├── Week6-Advanced-ML/
+│   ├── Advanced_ML_Task11.ipynb
+│   └── README.md
+├── Week7-Unsupervised-Learning/
+│   ├── Unsupervised_Learning_Task12.ipynb
 │   └── README.md
 └── README.md           # This file
 ```
@@ -115,5 +140,7 @@ GDGOC COMSATS Attock
 - [x] Week 5 - Task 8: Logistic Regression
 - [x] Week 5 - Task 9: Model Evaluation Metrics
 - [x] Week 5 - Task 10: Data Preprocessing & Feature Engineering
+- [x] Week 6 - Task 11: Advanced ML & Model Comparison
+- [x] Week 7 - Task 12: Unsupervised Learning & Market Basket Analysis
 
 ---
