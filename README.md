@@ -87,6 +87,15 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Association Rule Mining (Apriori Algorithm)
 - Market Basket Analysis Project
 
+### Week 8 - Neural Networks & Computer Vision
+**Task 13**: Neural Networks & Computer Vision
+- Neural Network implementation from Scratch
+- Forward Propagation and Backpropagation
+- MLP Classifier (Scikit-Learn)
+- CNN Architecture with TensorFlow/Keras
+- MNIST Digit Classification
+- CIFAR-10 Image Classification
+
 
 ## Repository Structure
 ```
@@ -113,6 +122,9 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   └── README.md
 ├── Week7-Unsupervised-Learning/
 │   ├── Unsupervised_Learning_Task12.ipynb
+│   └── README.md
+├── Week8-Neural-Networks/
+│   ├── Neural_Networks_Task13.ipynb
 │   └── README.md
 └── README.md           # This file
 ```
@@ -142,5 +154,6 @@ GDGOC COMSATS Attock
 - [x] Week 5 - Task 10: Data Preprocessing & Feature Engineering
 - [x] Week 6 - Task 11: Advanced ML & Model Comparison
 - [x] Week 7 - Task 12: Unsupervised Learning & Market Basket Analysis
+- [x] Week 8 - Task 13: Neural Networks & Computer Vision
 
 ---
