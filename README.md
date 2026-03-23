@@ -89,12 +89,17 @@ Repository for AI/ML Fellowship program tasks and projects.
 
 ### Week 8 - Neural Networks & Computer Vision
 **Task 13**: Neural Networks & Computer Vision
-- Neural Network implementation from Scratch
-- Forward Propagation and Backpropagation
-- MLP Classifier (Scikit-Learn)
-- CNN Architecture with TensorFlow/Keras
-- MNIST Digit Classification
-- CIFAR-10 Image Classification
+- Perceptron (Single Neuron)
+- Neural Network Fundamentals (Neurons, Layers)
+- Backpropagation (From Scratch)
+- ANN from Scratch Implementation
+- Data Preprocessing & Feature Engineering
+- Understanding Convolutional & Pooling Layers
+- CNN for Image Classification (MNIST & CIFAR-10)
+- Image Preprocessing & Augmentation
+- Transfer Learning (MobileNetV2, ResNet50)
+- Fine-tuning Pretrained Models
+- Object Detection & Semantic Segmentation Concepts
 
 
 ## Repository Structure
