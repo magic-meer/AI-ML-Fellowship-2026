@@ -1,75 +1,81 @@
-# Week 5 — Linear Regression & Logistic Regression
+# Week 5 — Supervised ML Foundations & Feature Engineering
 
-Introduction to Machine Learning, Linear Regression and Logistic Regression implementation for the AI/ML Fellowship at GDGOC COMSATS Attock.
+Data preprocessing and feature engineering tasks for the AI/ML Fellowship at GDGOC COMSATS Attock.
 
 ## Tasks
 
-### Task 7 - Linear Regression
-- Introduction to Machine Learning concepts
-- Implement Linear Regression from Scratch:
-  - Normal Equation (closed-form solution)
-  - Gradient Descent implementation
-- Implement Linear Regression using Scikit-Learn
-- Model evaluation (MSE, RMSE, MAE, R² Score)
-- Multiple Linear Regression
+### Task 1: Handling Missing Data – Titanic Dataset
+- Identify and resolve null values
+- Median Imputation for numerical values
+- Dropping highly sparse columns
 
-### Task 8 - Logistic Regression
-- Introduction to Classification problems
-- Math behind Logistic Regression:
-  - Sigmoid function
-  - Log-loss cost function
-  - Gradient descent
-- Implement Logistic Regression from Scratch
-- Implement Logistic Regression using Scikit-Learn
-- Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
-- Decision boundary visualization
+### Task 2: Feature Encoding – Car Evaluation Dataset
+- Transform categorical attributes into numerical formats
+- One-Hot Encoding (OHE)
 
-### Task 10 - Data Preprocessing & Feature Engineering
-- Handling Missing Values (Mean/Median/Mode imputation)
-- Feature Scaling (StandardScaler, MinMaxScaler)
-- Encoding Categorical Variables (Label Encoding, One-Hot Encoding)
-- Using Pipeline & ColumnTransformer for automated preprocessing
+### Task 3: Feature Scaling – Wine Quality Dataset
+- Adjust the scale of chemical attributes
+- Min-Max Normalization
+
+### Task 4: Handling Outliers – Boston Housing Dataset
+- Detect and treat outliers
+- Interquartile Range (IQR) Method
+
+### Task 5: Data Imputation (Advanced) – Retail Sales Dataset
+- Neighborhood-based logic for missing data
+- KNN Imputation (k=3)
+
+### Task 6: Feature Engineering – Heart Disease Dataset
+- Derive new insights from clinical data
+- Interaction Feature Creation
+
+### Task 7: Variable Transformation – Bike Sharing Dataset
+- Correct the distribution of demand data
+- Log Transformation
+
+### Task 8: Feature Selection – Diabetes Dataset
+- Determine most significant health indicators
+- Recursive Feature Elimination (RFE)
+
+### Task 9: Handling Imbalanced Data – Credit Card Fraud
+- Resolve extreme class imbalance
+- SMOTE (Synthetic Minority Over-sampling Technique)
+
+### Task 10: Combining Multiple Datasets – MovieLens Dataset
+- Merge disparate movie files
+- Inner Joining on movie_id
+
+### Task 11: Dimensionality Reduction – MNIST Dataset
+- Reduce 784-pixel feature space
+- Principal Component Analysis (PCA)
+
+### Task 12: Text Preprocessing – IMDB Movie Reviews
+- Clean raw movie reviews
+- Regex cleaning, Stopword removal, Stemming
+
+### Task 13: Time-Series Preprocessing – Air Quality Dataset
+- Handle gaps and resampling
+- Forward Fill (ffill)
 
 ## Concepts Covered
-- Machine Learning fundamentals
-- Supervised Learning (Regression & Classification)
-- Linear Regression mathematics
-- Normal Equation
-- Gradient Descent optimization
-- Model evaluation metrics
-- Feature scaling impact
-- Multiple regression
-- Logistic Regression mathematics
-- Sigmoid function
-- Cross-Entropy (Log Loss)
-- Decision boundaries
-- ROC curves and AUC
-- Data preprocessing
-- Feature engineering
-- Missing value handling
-- Categorical encoding
-- Pipeline and ColumnTransformer
+- Missing value handling (Mean, Median, KNN imputation)
+- Feature encoding (Label, One-Hot)
+- Feature scaling (StandardScaler, MinMaxScaler)
+- Outlier detection and treatment
+- Feature engineering and interaction features
+- Variable transformation (Log, Square Root)
+- Feature selection (RFE, Correlation)
+- Handling imbalanced data (SMOTE)
+- Data merging and joining
+- Dimensionality reduction (PCA)
+- Text preprocessing
+- Time-series preprocessing
 
 ## Structure
 ```
-Week5-Linear-Regression/
-├── Linear_Regression_Task7.ipynb     # Linear Regression implementation
-├── Logistic_Regression_Task8.ipynb    # Logistic Regression implementation
-└── Data_Preprocessing_Task10.ipynb    # Data Preprocessing & Feature Engineering
+Week5-supervised-ml-foundations-and-feature-engineering/
+└── Data_Preprocessing_Task10.ipynb    # 13 preprocessing tasks
 ```
-
-## Key Implementations
-
-### Task 7 - Linear Regression
-1. **Normal Equation** - Closed-form solution using matrix operations
-2. **Gradient Descent** - Iterative optimization algorithm
-3. **Scikit-Learn** - Production-ready implementation
 
 ## Author
 Meher Ali - AI/ML Fellowship, GDGOC COMSATS Attock
-
-### Task 8 - Logistic Regression
-1. **Sigmoid Function** - Maps predictions to probabilities (0-1)
-2. **Log Loss Cost Function** - Cross-entropy loss for classification
-3. **Gradient Descent** - Optimizes weights to minimize cost
-4. **Scikit-Learn** - Production-ready LogisticRegression
