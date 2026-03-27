@@ -38,7 +38,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 **Task 6**: Titanic EDA
 - Exploratory Data Analysis on the Titanic dataset.
 
-### Week 5 - Linear Regression & Logistic Regression
+### Week 5 - Supervised ML Foundations & Feature Engineering
 **Task 7**: Linear Regression
 - Introduction to Machine Learning
 - Implement Linear Regression from Scratch:
@@ -62,7 +62,8 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Model Variance & Bias
 - Underfitting vs Overfitting
 
-**Task 10**: Data Preprocessing & Feature Engineering (13 Tasks)
+**Task 10**: Data Preprocessing & Feature Engineering
+*(Contains 13 sub-tasks as listed below)*
 - Task 1: Handling Missing Data (Titanic) - Median Imputation
 - Task 2: Feature Encoding (Car Evaluation) - One-Hot Encoding
 - Task 3: Feature Scaling (Wine Quality) - Min-Max Normalization
