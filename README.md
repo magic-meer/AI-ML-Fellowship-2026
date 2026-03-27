@@ -62,11 +62,20 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Model Variance & Bias
 - Underfitting vs Overfitting
 
-**Task 10**: Data Preprocessing & Feature Engineering
-- Handling Missing Values (Mean/Median/Mode imputation)
-- Feature Scaling (StandardScaler, MinMaxScaler)
-- Encoding Categorical Variables (Label Encoding, One-Hot Encoding)
-- Using Pipeline & ColumnTransformer
+**Task 10**: Data Preprocessing & Feature Engineering (13 Tasks)
+- Task 1: Handling Missing Data (Titanic) - Median Imputation
+- Task 2: Feature Encoding (Car Evaluation) - One-Hot Encoding
+- Task 3: Feature Scaling (Wine Quality) - Min-Max Normalization
+- Task 4: Handling Outliers (Boston Housing) - IQR Method
+- Task 5: Advanced Data Imputation (Retail Sales) - KNN Imputation
+- Task 6: Feature Engineering (Heart Disease) - Interaction Features
+- Task 7: Variable Transformation (Bike Sharing) - Log Transformation
+- Task 8: Feature Selection (Diabetes) - RFE
+- Task 9: Handling Imbalanced Data (Credit Card Fraud) - SMOTE
+- Task 10: Combining Multiple Datasets (MovieLens) - Inner Join
+- Task 11: Dimensionality Reduction (MNIST) - PCA
+- Task 12: Text Preprocessing (IMDB) - Regex, Stopwords, Stemming
+- Task 13: Time-Series Preprocessing (Air Quality) - Forward Fill
 
 ### Week 6 - Advanced ML Techniques
 **Task 11**: Advanced ML & Model Comparison
@@ -117,7 +126,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   └── README.md
 ├── Week3-Week4-project-plant-watering-system/
 │   └── Plant-Watering-System/   # IoT Project
-├── Week5-Linear-Regression/
+├── Week5-supervised-ml-foundations-and-feature-engineering/
 │   ├── Linear_Regression_Task7.ipynb
 │   ├── Logistic_Regression_Task8.ipynb
 │   ├── Data_Preprocessing_Task10.ipynb
