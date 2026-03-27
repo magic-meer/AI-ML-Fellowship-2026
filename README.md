@@ -38,6 +38,14 @@ Repository for AI/ML Fellowship program tasks and projects.
 **Task 6**: Titanic EDA
 - Exploratory Data Analysis on the Titanic dataset.
 
+### Week 3 & Week 4 - Peer Project: Plant Watering System
+**Project**: IoT-based Automated Plant Watering System
+- Collaborative peer project with its own repository
+- Implemented as a Git submodule
+- Hardware integration with sensors
+- Automated irrigation system
+- Real-time monitoring and control
+
 ### Week 5 - Supervised ML Foundations & Feature Engineering
 **Task 7**: Linear Regression
 - Introduction to Machine Learning
@@ -163,6 +171,7 @@ GDGOC COMSATS Attock
 - [x] Week 1 - Task 4: Modular Programming, Packaging, and Production Readiness
 - [x] Week 1 - Task 5: Streamlit Mini-Project
 - [x] Week 2 - Task 6: Titanic EDA
+- [x] Week 3 & 4 - Peer Project: Plant Watering System
 - [x] Week 5 - Task 7: Linear Regression
 - [x] Week 5 - Task 8: Logistic Regression
 - [x] Week 5 - Task 9: Model Evaluation Metrics
