@@ -119,6 +119,18 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Fine-tuning Pretrained Models
 - Object Detection & Semantic Segmentation Concepts
 
+### Week 9 - Generative AI
+**Task 15**: GenAI Sprint Lab
+- GenAI Foundations & Model Landscape
+- Prompt Engineering (Zero-shot, Few-shot, Chain-of-thought)
+- Tokenization & LLM Inputs
+- Working with LLMs (Summarization, Chatbot)
+- RAG Fundamentals (Embeddings, Vector Search)
+- Build Mini RAG App
+- GAN Fundamentals (Generator vs Discriminator)
+- Data Augmentation using GANs
+- Final Mini Project: Text Analysis Tool
+
 
 ## Repository Structure
 ```
@@ -179,5 +191,6 @@ GDGOC COMSATS Attock
 - [x] Week 6 - Task 11: Advanced ML & Model Comparison
 - [x] Week 7 - Task 12: Unsupervised Learning & Market Basket Analysis
 - [x] Week 8 - Task 13: Neural Networks & Computer Vision
+- [x] Week 9 - Task 15: GenAI Sprint Lab
 
 ---
