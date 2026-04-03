@@ -121,6 +121,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 
 ### Week 9 - Generative AI
 **Task 15**: GenAI Sprint Lab
+- GenAI_Notebook: Generative_AI_Task15.ipynb
 - GenAI Foundations & Model Landscape
 - Prompt Engineering (Zero-shot, Few-shot, Chain-of-thought)
 - Tokenization & LLM Inputs
@@ -162,6 +163,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   ├── Neural_Networks_Task13.ipynb
 │   └── README.md
 ├── Week9-Gen-Ai/
+│   ├── Generative_AI_Task15.ipynb
 │   └── README.md
 └── README.md           # This file
 ```

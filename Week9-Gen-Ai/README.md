@@ -98,8 +98,8 @@ Generative AI fundamentals, Prompt Engineering, RAG, and GANs for the AI/ML Fell
 
 ## Structure
 ```
-Week9-gen-ai/
-├── GenAI.ipynb
+Week9-Gen-Ai/
+├── Generative_AI_Task15.ipynb
 └── README.md
 ```
 
