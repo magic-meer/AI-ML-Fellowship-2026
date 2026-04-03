@@ -135,24 +135,24 @@ Repository for AI/ML Fellowship program tasks and projects.
 ## Repository Structure
 ```
 .
-├── Week1-python-and-git-foundation/
+├── Week1-Python-And-Git-Foundation/
 │   ├── Task1/          # Python basics
 │   ├── Task2/          # Modular Python & data handling
 │   ├── Task3/          # OOP & advanced Python
 │   ├── Task4/          # Modular Programming, Packaging, and Production Readiness
 │   ├── Task5/          # Streamlit mini-project
 │   └── README.md
-├── Week2-data-handling-and-visualization/
+├── Week2-Data-Handling-And-Visualization/
 │   ├── Task6/          # Titanic EDA
 │   └── README.md
-├── Week3-Week4-project-plant-watering-system/
+├── Week3-Week4-Project-Plant-Watering-System/
 │   └── Plant-Watering-System/   # IoT Project
-├── Week5-supervised-ml-foundations-and-feature-engineering/
+├── Week5-Supervised-Ml-Foundations-And-Feature-Engineering/
 │   ├── Linear_Regression_Task7.ipynb
 │   ├── Logistic_Regression_Task8.ipynb
 │   ├── Data_Preprocessing_Task10.ipynb
 │   └── README.md
-├── Week6-Advanced-ML/
+├── Week6-Advanced-Ml/
 │   ├── Advanced_ML_Task11.ipynb
 │   └── README.md
 ├── Week7-Unsupervised-Learning/
@@ -160,6 +160,8 @@ Repository for AI/ML Fellowship program tasks and projects.
 │   └── README.md
 ├── Week8-Neural-Networks/
 │   ├── Neural_Networks_Task13.ipynb
+│   └── README.md
+├── Week9-Gen-Ai/
 │   └── README.md
 └── README.md           # This file
 ```
