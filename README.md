@@ -132,6 +132,22 @@ Repository for AI/ML Fellowship program tasks and projects.
 - Data Augmentation using GANs
 - Final Mini Project: Text Analysis Tool
 
+### Week 6 & 7 - Hackathon Project: ClarityLab
+**Project**: AI-Powered Water Quality Analysis System
+- Collaborative hackathon project with its own repository
+- Implemented as a Git submodule
+- Real-time water quality monitoring
+- AI-powered analysis and predictions
+- Full-stack application (Next.js + FastAPI)
+
+### Week 10 to 12 - Final Project: Arabic Morphosyntactic Explorer
+**Project**: Arabic Morphosyntactic Analysis Tool
+- Solo final project demonstrating 12-week learning
+- Full-stack NLP application
+- Arabic language processing
+- Morphosyntactic analysis
+- Dockerized deployment
+
 
 ## Repository Structure
 ```
@@ -156,6 +172,8 @@ Repository for AI/ML Fellowship program tasks and projects.
 ├── Week6-Advanced-Ml/
 │   ├── Advanced_ML_Task11.ipynb
 │   └── README.md
+├── Week6-Week7-Project-ClarityLab/  # Hackathon Project
+│   └── ClarityLab/
 ├── Week7-Unsupervised-Learning/
 │   ├── Unsupervised_Learning_Task12.ipynb
 │   └── README.md
@@ -165,6 +183,7 @@ Repository for AI/ML Fellowship program tasks and projects.
 ├── Week9-Gen-Ai/
 │   ├── Generative_AI_Task15.ipynb
 │   └── README.md
+├── Final-Project-Arabic-Morphosyntactic-Explorer/  # Final Solo Project
 └── README.md           # This file
 ```
 
@@ -193,8 +212,12 @@ GDGOC COMSATS Attock
 - [x] Week 5 - Task 9: Model Evaluation Metrics
 - [x] Week 5 - Task 10: Data Preprocessing & Feature Engineering
 - [x] Week 6 - Task 11: Advanced ML & Model Comparison
+- [x] Week 6 & 7 - Hackathon Project: ClarityLab
 - [x] Week 7 - Task 12: Unsupervised Learning & Market Basket Analysis
 - [x] Week 8 - Task 13: Neural Networks & Computer Vision
 - [x] Week 9 - Task 15: GenAI Sprint Lab
+- [x] Weeks 10-12 - Final Project: Arabic Morphosyntactic Explorer
 
 ---
+
+**Fellowship Completed!**

@@ -4,3 +4,9 @@
 [submodule "Week3-Week4-Project-Plant-Watering-System/Plant-Watering-System"]
 	path = Week3-Week4-Project-Plant-Watering-System/Plant-Watering-System
 	url = https://github.com/magic-meer/Plant-Watering-System
+[submodule "Week6-Week7-Project-ClarityLab"]
+	path = Week6-Week7-Project-ClarityLab
+	url = https://github.com/magic-meer/ClarityLab.git
+[submodule "Final-Project-Arabic-Morphosyntactic-Explorer"]
+	path = Final-Project-Arabic-Morphosyntactic-Explorer
+	url = https://github.com/magic-meer/Arabic-Morphosyntactic-Explorer.git
